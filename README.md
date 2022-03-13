@@ -1,7 +1,8 @@
 ![alt text](https://d39w7f4ix9f5s9.cloudfront.net/90/9c/51ab07474da3a6da25292fcc0826/amazon-logo-orgsmile.svg)
 
 # frist_recommendation_engine
-First recommendation system developed for our master class in collaboration with other students.
+We have created a first recommendation engine based on the Amazon review data of 2018 for Toys and Games.
+We leveraged the power of the **surprise library for Python**, to create this first recommendation engine. Through it, customers looking to buy toys and games for children or for themselves, would be able to get recommendations on what to buy next.
 
 # Source
 
