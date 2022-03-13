@@ -1,3 +1,5 @@
+![alt text](https://d39w7f4ix9f5s9.cloudfront.net/90/9c/51ab07474da3a6da25292fcc0826/amazon-logo-orgsmile.svg)
+
 # frist_recommendation_engine
 First recommendation system developed for our master class in collaboration with other students.
 
